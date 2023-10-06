@@ -13,7 +13,7 @@ A importância deste projeto se desdobra em dois principais motivos. Primeiro, e
 https://brasileiraspln.com/livro-pln/
 # Capa
 
-![Capa - Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português](https://raw.githubusercontent.com/felipe0fc/PLN/main/images/)
+![Capa - Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português](https://raw.githubusercontent.com/felipe0fc/PLN/main/images/capa.png)
 
 # Sumário
 
