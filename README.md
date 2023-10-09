@@ -22,7 +22,7 @@ https://brasileiraspln.com/livro-pln/
 | Sobre este livro | README.md   | aguardando revisão |
 | Prefácio | README.md   | aguardando revisão |
 | Introdução - O que é PLN? | Capitulo1.ipynb   | aguardando revisão |
-| Fala - Texto ou fala? | None   | não iniciado |
+| Fala - Texto ou fala? | Capitulo2.ipynb   | Em progresso |
 | Fala - Recursos para o processamento de fala | None   | não iniciado |
 | Palavras - Sequência de caracteres e palavras | None   | não iniciado |
 | Palavras - Expressões multipalavras | None   | não iniciado |
